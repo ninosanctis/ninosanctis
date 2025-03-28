@@ -2,16 +2,23 @@
 
 Desenvolvedor Front End apaixonado por criar interfaces dinâmicas e responsivas. Atualmente estudando Engenharia de Software e sempre buscando aprender novas tecnologias.
 
-🛠 Habilidades <br/>
-Linguagens: JavaScript, TypeScript, React, Angular, Python (em aprendizado contínuo) <br/>
+🛠 Habilidades 
+<br/>
 
-Front End: HTML5, CSS3, Tailwind CSS <br/>
+Linguagens: JavaScript, TypeScript, React, Angular, Python (em aprendizado contínuo) 
+<br/>
 
-APIs & Backend: Consumo de REST APIs, conhecimentos básicos em bancos de dados <br/>
+Front End: HTML5, CSS3, Tailwind CSS
+<br/>
 
-Ferramentas: Git, GitHub, Vite, React <br/>
+APIs & Backend: Consumo de REST APIs, conhecimentos básicos em bancos de dados
+<br/>
 
-Estudando Atualmente: Python 🐍 <br/>
+Ferramentas: Git, GitHub, Vite, React 
+<br/>
+
+Estudando Atualmente: Python 🐍 
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -67,35 +74,60 @@ Estudando Atualmente: Python 🐍 <br/>
 </td></tr></table>  
 
 <br/>  
-🚀 Projetos em Produção <br/>
+
+🚀 Projetos em Produção 
+<br/>
+
 Site GS Home Solutions
+<br/>
 
-Desenvolvido com React e ChackraUI <br/>
-Link do Projeto (https://gshomesolutions.com.br/) <br/>
+Desenvolvido com React e ChackraUI 
+<br/>
 
-Gerador de Certificados <br/>
+Link do Projeto (https://gshomesolutions.com.br/) 
+<br/>
 
-Ferramenta que automatiza a criação de certificados em PDF.  <br/>
+Gerador de Certificados
+<br/>
 
-Tecnologias: React, tailwindCSS, postgreSQL, HTML5 Canvas. <br/>
+Ferramenta que automatiza a criação de certificados em PDF.
+<br/>
 
-Link do Projeto (https://certificados.gshomesolutions.com.br/) <br/>
+Tecnologias: React, tailwindCSS, postgreSQL, HTML5 Canvas.
+<br/>
 
-📚 Formação Acadêmica  <br/>
-Engenharia de Software (Cursando) <br/>
+Link do Projeto (https://certificados.gshomesolutions.com.br/)
 
-Universidade Unopar <br/>
+<br/>
 
-🌱 Aprendendo <br/>
-Atualmente focando em:  <br/>
+📚 Formação Acadêmica
+<br/>
 
-Aprimorar conhecimentos em TypeScript  <br/>
+Engenharia de Software (Cursando)
+<br/>
 
-Explorar Python para automação e backend  <br/>
+Universidade Unopar
 
-Estudar React para desenvolvimento de SPAs  <br/>
+<br/>
 
-📫 Como me encontrar  <br/>
+🌱 Aprendendo
+<br/>
+
+Atualmente focando em:
+<br/>
+
+Aprimorar conhecimentos em TypeScript
+<br/>
+
+Explorar Python para automação e backend
+<br/>
+
+Estudar React para desenvolvimento de SPAs
+
+<br/>
+
+📫 Como me encontrar
+<br/>
 
 E-mail: brunosanctis1997@gmail.com
 
